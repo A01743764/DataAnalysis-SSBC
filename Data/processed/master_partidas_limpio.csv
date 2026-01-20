@@ -1,0 +1,533 @@
+﻿Archivo,Torneo,Fecha,Etapa_Torneo,Fase,Player_1,Player_2,Ganador,Perdedor,Score,Score_Ganador,Score_Perdedor,Diferencia_Juegos,Tipo_Victoria
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 1,Bracket,Dr Mario,Snake,Snake,Dr Mario,0-2,2,0,2,Victoria
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 1,Bracket,ROB,Greninja,ROB,Greninja,2-0,2,0,2,Victoria
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 1,Bracket,Samus,Lucario,Samus,Lucario,2-0,2,0,2,Victoria
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 1,Bracket,Falco,Pichu,Falco,Pichu,2-1,2,1,1,Reñido
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 1,Bracket,Toad,Wolf,Wolf,Toad,0-2,2,0,2,Victoria
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 1,Bracket,Pikachu,Vegeta,Vegeta,Pikachu,0-2,2,0,2,Victoria
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 1,Bracket,Terry,Ganon,Ganon,Terry,0-2,2,0,2,Victoria
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 1,Bracket,Mr. Game & Watch,Marth,Marth,Mr. Game & Watch,0-2,2,0,2,Victoria
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 1,Bracket,Ryu,Jigglypuff,Jigglypuff,Ryu,0-2,2,0,2,Victoria
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 2,Bracket,Bowser,Snake,Bowser,Snake,2-0,2,0,2,Victoria
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 2,Bracket,ROB,Samus,ROB,Samus,2-1,2,1,1,Reñido
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 2,Bracket,Shadow,Falco,Falco,Shadow,0-2,2,0,2,Victoria
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 2,Bracket,Pac-Man,Wolf,Wolf,Pac-Man,0-2,2,0,2,Victoria
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 2,Bracket,Captain Falcon,Vegeta,Vegeta,Captain Falcon,0-2,2,0,2,Victoria
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 2,Bracket,Mewtwo,Ganon,Mewtwo,Ganon,2-1,2,1,1,Reñido
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 2,Bracket,Fox,Marth,Marth,Fox,0-2,2,0,2,Victoria
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 2,Bracket,Gooey,Jigglypuff,Gooey,Jigglypuff,2-1,2,1,1,Reñido
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 3,Bracket,Bowser,ROB,Bowser,ROB,2-1,2,1,1,Reñido
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 3,Bracket,Falco,Wolf,Wolf,Falco,0-2,2,0,2,Victoria
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 3,Bracket,Vegeta,Mewtwo,Mewtwo,Vegeta,1-2,2,1,1,Reñido
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 3,Bracket,Marth,Gooey,Marth,Gooey,2-0,2,0,2,Victoria
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 4,Bracket,Bowser,Wolf,Wolf,Bowser,1-3,3,1,2,Victoria
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 4,Bracket,Mewtwo,Marth,Marth,Mewtwo,1-3,3,1,2,Victoria
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Winners Round 5,Bracket,Wolf,Marth,Marth,Wolf,2-3,3,2,1,Reñido
+sim01.json,SSBC sim #1,2021-07-29T09:42:53.956-07:00,Third Place Round,Bracket,Bowser,Mewtwo,Mewtwo,Bowser,1-3,3,1,2,Victoria
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Fase de Grupos,Pools,ROB,Marth,Marth,ROB,0-2,2,0,2,Victoria
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Fase de Grupos,Pools,Falco,Tails,Falco,Tails,2-0,2,0,2,Victoria
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Fase de Grupos,Pools,Tails,ROB,ROB,Tails,0-2,2,0,2,Victoria
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Fase de Grupos,Pools,Marth,Falco,Falco,Marth,1-2,2,1,1,Reñido
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Fase de Grupos,Pools,Falco,ROB,Falco,ROB,2-0,2,0,2,Victoria
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Fase de Grupos,Pools,Marth,Tails,Marth,Tails,2-0,2,0,2,Victoria
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Fase de Grupos,Pools,Escanor,Thanos,Escanor,Thanos,2-1,2,1,1,Reñido
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Fase de Grupos,Pools,Fox,Sephiroth,Sephiroth,Fox,1-2,2,1,1,Reñido
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Fase de Grupos,Pools,Sephiroth,Escanor,Escanor,Sephiroth,0-2,2,0,2,Victoria
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Fase de Grupos,Pools,Thanos,Fox,Thanos,Fox,2-0,2,0,2,Victoria
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Fase de Grupos,Pools,Fox,Escanor,Escanor,Fox,0-2,2,0,2,Victoria
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Fase de Grupos,Pools,Thanos,Sephiroth,Thanos,Sephiroth,2-0,2,0,2,Victoria
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Fase de Grupos,Pools,Yoshi,Mewtwo,Yoshi,Mewtwo,2-1,2,1,1,Reñido
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Fase de Grupos,Pools,Link,Snake,Snake,Link,1-2,2,1,1,Reñido
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Fase de Grupos,Pools,Snake,Yoshi,Yoshi,Snake,1-2,2,1,1,Reñido
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Fase de Grupos,Pools,Mewtwo,Link,Mewtwo,Link,2-0,2,0,2,Victoria
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Fase de Grupos,Pools,Link,Yoshi,Yoshi,Link,0-2,2,0,2,Victoria
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Fase de Grupos,Pools,Mewtwo,Snake,Mewtwo,Snake,2-0,2,0,2,Victoria
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Winners Round 1,Bracket,Sephiroth,Snake,Snake,Sephiroth,1-3,3,1,2,Victoria
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Winners Round 1,Bracket,Marth,Fox,Marth,Fox,3-0,3,0,3,Victoria Contundente
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Winners Round 1,Bracket,ROB,Tails,ROB,Tails,3-2,3,2,1,Reñido
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Winners Round 1,Bracket,Thanos,Link,Thanos,Link,3-0,3,0,3,Victoria Contundente
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Winners Round 2,Bracket,Falco,Snake,Falco,Snake,3-0,3,0,3,Victoria Contundente
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Winners Round 2,Bracket,Mewtwo,Marth,Marth,Mewtwo,0-3,3,0,3,Victoria Contundente
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Winners Round 2,Bracket,Escanor,ROB,Escanor,ROB,3-0,3,0,3,Victoria Contundente
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Winners Round 2,Bracket,Yoshi,Thanos,Thanos,Yoshi,1-3,3,1,2,Victoria
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Winners Round 3,Bracket,Falco,Marth,Marth,Falco,0-3,3,0,3,Victoria Contundente
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Winners Round 3,Bracket,Escanor,Thanos,Escanor,Thanos,3-0,3,0,3,Victoria Contundente
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Winners Round 4,Bracket,Marth,Escanor,Escanor,Marth,0-3,3,0,3,Victoria Contundente
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Losers Round 1,Bracket,Yoshi,Sephiroth,Yoshi,Sephiroth,3-1,3,1,2,Victoria
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Losers Round 1,Bracket,ROB,Fox,ROB,Fox,3-0,3,0,3,Victoria Contundente
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Losers Round 1,Bracket,Mewtwo,Tails,Tails,Mewtwo,2-3,3,2,1,Reñido
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Losers Round 1,Bracket,Snake,Link,Link,Snake,1-3,3,1,2,Victoria
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Losers Round 2,Bracket,Yoshi,ROB,Yoshi,ROB,3-0,3,0,3,Victoria Contundente
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Losers Round 2,Bracket,Tails,Link,Link,Tails,1-3,3,1,2,Victoria
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Losers Round 3,Bracket,Falco,Yoshi,Yoshi,Falco,0-3,3,0,3,Victoria Contundente
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Losers Round 3,Bracket,Thanos,Link,Thanos,Link,3-0,3,0,3,Victoria Contundente
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Losers Round 4,Bracket,Yoshi,Thanos,Thanos,Yoshi,0-3,3,0,3,Victoria Contundente
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Losers Round 5,Bracket,Marth,Thanos,Thanos,Marth,2-3,3,2,1,Reñido
+sim02.json,SSBC sim #2,2021-09-30T15:23:44.372-07:00,Winners Round 5,Bracket,Escanor,Thanos,Escanor,Thanos,3-2,3,2,1,Reñido
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Winners Round 1,Bracket,Dr Mario,Ganon,Ganon,Dr Mario,0-2,2,0,2,Victoria
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Winners Round 1,Bracket,Little Mac,Pichu,Little Mac,Pichu,2-0,2,0,2,Victoria
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Winners Round 1,Bracket,Ryu,Donkey Kong,Donkey Kong,Ryu,1-2,2,1,1,Reñido
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Winners Round 1,Bracket,Shadow,Bowser,Bowser,Shadow,0-2,2,0,2,Victoria
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Winners Round 2,Bracket,Jigglypuff,Ganon,Jigglypuff,Ganon,2-0,2,0,2,Victoria
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Winners Round 2,Bracket,Captain Falcon,Little Mac,Captain Falcon,Little Mac,2-0,2,0,2,Victoria
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Winners Round 2,Bracket,Kirby,Donkey Kong,Donkey Kong,Kirby,0-2,2,0,2,Victoria
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Winners Round 2,Bracket,Luigi,Bowser,Bowser,Luigi,0-2,2,0,2,Victoria
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Winners Round 3,Bracket,Jigglypuff,Captain Falcon,Jigglypuff,Captain Falcon,3-1,3,1,2,Victoria
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Winners Round 3,Bracket,Donkey Kong,Bowser,Bowser,Donkey Kong,0-3,3,0,3,Victoria Contundente
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Winners Round 4,Bracket,Jigglypuff,Bowser,Bowser,Jigglypuff,1-3,3,1,2,Victoria
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Losers Round 1,Bracket,Luigi,Dr Mario,Dr Mario,Luigi,1-2,2,1,1,Reñido
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Losers Round 1,Bracket,Kirby,Pichu,Pichu,Kirby,0-999,999,0,999,Victoria
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Losers Round 1,Bracket,Little Mac,Ryu,Ryu,Little Mac,1-2,2,1,1,Reñido
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Losers Round 1,Bracket,Ganon,Shadow,Ganon,Shadow,2-0,2,0,2,Victoria
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Losers Round 2,Bracket,Dr Mario,Pichu,Pichu,Dr Mario,2-3,3,2,1,Reñido
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Losers Round 2,Bracket,Ryu,Ganon,Ganon,Ryu,1-3,3,1,2,Victoria
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Losers Round 3,Bracket,Captain Falcon,Pichu,Pichu,Captain Falcon,2-3,3,2,1,Reñido
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Losers Round 3,Bracket,Donkey Kong,Ganon,Donkey Kong,Ganon,3-2,3,2,1,Reñido
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Losers Round 4,Bracket,Pichu,Donkey Kong,Donkey Kong,Pichu,0-3,3,0,3,Victoria Contundente
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Losers Round 5,Bracket,Jigglypuff,Donkey Kong,Donkey Kong,Jigglypuff,0-3,3,0,3,Victoria Contundente
+sim03.json,SSBC sim #3,2021-10-19T15:07:37.280-07:00,Winners Round 5,Bracket,Bowser,Donkey Kong,Bowser,Donkey Kong,3-1,3,1,2,Victoria
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Winners Round 1,Bracket,Mega Man,Lucario,Lucario,Mega Man,0-2,2,0,2,Victoria
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Winners Round 1,Bracket,Knuckles,Geno,Knuckles,Geno,2-0,2,0,2,Victoria
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Winners Round 1,Bracket,Snivy,Cloud,Cloud,Snivy,0-2,2,0,2,Victoria
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Winners Round 1,Bracket,Frieza,Chun-Li,Chun-Li,Frieza,0-2,2,0,2,Victoria
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Winners Round 2,Bracket,Metal Sonic,Lucario,Lucario,Metal Sonic,0-2,2,0,2,Victoria
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Winners Round 2,Bracket,Pikachu,Knuckles,Knuckles,Pikachu,0-2,2,0,2,Victoria
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Winners Round 2,Bracket,Chrono,Cloud,Cloud,Chrono,0-2,2,0,2,Victoria
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Winners Round 2,Bracket,Ridley,Chun-Li,Chun-Li,Ridley,0-2,2,0,2,Victoria
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Winners Round 3,Bracket,Lucario,Knuckles,Lucario,Knuckles,3-0,3,0,3,Victoria Contundente
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Winners Round 3,Bracket,Cloud,Chun-Li,Cloud,Chun-Li,3-0,3,0,3,Victoria Contundente
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Winners Round 4,Bracket,Lucario,Cloud,Cloud,Lucario,2-3,3,2,1,Reñido
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Losers Round 1,Bracket,Ridley,Mega Man,Mega Man,Ridley,0-2,2,0,2,Victoria
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Losers Round 1,Bracket,Chrono,Geno,Chrono,Geno,2-1,2,1,1,Reñido
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Losers Round 1,Bracket,Pikachu,Snivy,Snivy,Pikachu,0-2,2,0,2,Victoria
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Losers Round 1,Bracket,Metal Sonic,Frieza,Frieza,Metal Sonic,0-2,2,0,2,Victoria
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Losers Round 2,Bracket,Mega Man,Chrono,Chrono,Mega Man,0-3,3,0,3,Victoria Contundente
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Losers Round 2,Bracket,Snivy,Frieza,Snivy,Frieza,3-0,3,0,3,Victoria Contundente
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Losers Round 3,Bracket,Knuckles,Chrono,Chrono,Knuckles,0-3,3,0,3,Victoria Contundente
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Losers Round 3,Bracket,Chun-Li,Snivy,Chun-Li,Snivy,3-0,3,0,3,Victoria Contundente
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Losers Round 4,Bracket,Chrono,Chun-Li,Chrono,Chun-Li,3-0,3,0,3,Victoria Contundente
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Losers Round 5,Bracket,Lucario,Chrono,Lucario,Chrono,3-1,3,1,2,Victoria
+sim04.json,SSBC sim #4,2021-11-03T20:05:25.822-07:00,Winners Round 5,Bracket,Cloud,Lucario,Cloud,Lucario,3-1,3,1,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Mario,Falco,Falco,Mario,0-2,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,S Mario,Luigi,S Mario,Luigi,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Wolf,ROB,ROB,Wolf,1-2,2,1,1,Reñido
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Yoshi,Ryu,Yoshi,Ryu,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Yamcha,Fox,Yamcha,Fox,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Escanor,Falco,Escanor,Falco,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,S Mario,ROB,S Mario,ROB,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Bowser,Yoshi,Bowser,Yoshi,2-1,2,1,1,Reñido
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Dr Mario,Yamcha,Yamcha,Dr Mario,0-2,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Escanor,S Mario,Escanor,S Mario,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Bowser,Yamcha,Bowser,Yamcha,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Luigi,Wolf,Luigi,Wolf,2-1,2,1,1,Reñido
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Dr Mario,Mario,Mario,Dr Mario,0-2,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Yoshi,Luigi,Yoshi,Luigi,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,ROB,Ryu,Ryu,ROB,0-2,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Falco,Fox,Fox,Falco,1-2,2,1,1,Reñido
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Mario,Yoshi,Yoshi,Mario,0-2,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Ryu,Fox,Fox,Ryu,1-2,2,1,1,Reñido
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,S Mario,Yoshi,S Mario,Yoshi,2-1,2,1,1,Reñido
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Yamcha,Fox,Yamcha,Fox,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Mewtwo,Snake,Mewtwo,Snake,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Donkey Kong,Samus,Donkey Kong,Samus,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Chrono,Cell,Chrono,Cell,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Thanos,Mewtwo,Thanos,Mewtwo,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Marth,Cloud,Marth,Cloud,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Ken,Donkey Kong,Ken,Donkey Kong,2-1,2,1,1,Reñido
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Steve,Chrono,Steve,Chrono,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Thanos,Marth,Thanos,Marth,2-1,2,1,1,Reñido
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Ken,Steve,Steve,Ken,0-2,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Chrono,Snake,Chrono,Snake,2-1,2,1,1,Reñido
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Cloud,Samus,Cloud,Samus,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Mewtwo,Cell,Mewtwo,Cell,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Donkey Kong,Chrono,Chrono,Donkey Kong,0-2,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Cloud,Mewtwo,Cloud,Mewtwo,2-1,2,1,1,Reñido
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Marth,Chrono,Marth,Chrono,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Fase de Grupos,Pools,Ken,Cloud,Ken,Cloud,2-0,2,0,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Winners Round 1,Bracket,Bowser,Marth,Bowser,Marth,0-0,0,0,0,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Winners Round 1,Bracket,Thanos,S Mario,Thanos,S Mario,0-0,0,0,0,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Winners Round 1,Bracket,Escanor,Ken,Escanor,Ken,0-0,0,0,0,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Winners Round 1,Bracket,Steve,Yamcha,Steve,Yamcha,0-0,0,0,0,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Winners Round 2,Bracket,Bowser,Thanos,Thanos,Bowser,1-3,3,1,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Winners Round 2,Bracket,Escanor,Steve,Escanor,Steve,3-0,3,0,3,Victoria Contundente
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Winners Round 3,Bracket,Thanos,Escanor,Thanos,Escanor,3-2,3,2,1,Reñido
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Losers Round 1,Bracket,Marth,S Mario,S Mario,Marth,1-3,3,1,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Losers Round 1,Bracket,Ken,Yamcha,Ken,Yamcha,3-1,3,1,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Losers Round 2,Bracket,Steve,S Mario,Steve,S Mario,3-1,3,1,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Losers Round 2,Bracket,Bowser,Ken,Bowser,Ken,3-2,3,2,1,Reñido
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Losers Round 3,Bracket,Steve,Bowser,Bowser,Steve,1-3,3,1,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Losers Round 4,Bracket,Escanor,Bowser,Escanor,Bowser,3-0,3,0,3,Victoria Contundente
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Winners Round 4,Bracket,Thanos,Escanor,Escanor,Thanos,1-3,3,1,2,Victoria
+sim05.json,SSBC sim #5,2022-09-24T14:41:07.371-07:00,Winners Round 4,Bracket,Escanor,Thanos,Thanos,Escanor,1-3,3,1,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Luigi,Ness,Luigi,Ness,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Meta Knight,Jiren,Jiren,Meta Knight,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Lucas,Super Shadow,Super Shadow,Lucas,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Lucina,Toon Link,Lucina,Toon Link,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Cell,Gogeta,Cell,Gogeta,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Icies,Evil Ryu,Evil Ryu,Icies,1-2,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Escanor,Luigi,Escanor,Luigi,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Snivy,Jigglypuff,Jigglypuff,Snivy,1-2,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Yamcha,Jiren,Yamcha,Jiren,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Dr Mario,Super Shadow,Super Shadow,Dr Mario,1-2,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Marth,Lucina,Marth,Lucina,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Tails,Lucario,Lucario,Tails,1-2,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,S Mario,Cell,S Mario,Cell,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Ryu,Evil Ryu,Ryu,Evil Ryu,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Escanor,Jigglypuff,Escanor,Jigglypuff,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Yamcha,Super Shadow,Yamcha,Super Shadow,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Marth,Lucario,Marth,Lucario,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,S Mario,Ryu,S Mario,Ryu,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Evil Ryu,Ness,Evil Ryu,Ness,2-1,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Tails,Meta Knight,Tails,Meta Knight,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Lucina,Lucas,Lucina,Lucas,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Dr Mario,Toon Link,Dr Mario,Toon Link,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Snivy,Gogeta,Snivy,Gogeta,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Luigi,Icies,Icies,Luigi,1-2,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Cell,Evil Ryu,Cell,Evil Ryu,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Tails,Lucina,Tails,Lucina,2-1,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Jiren,Dr Mario,Dr Mario,Jiren,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Snivy,Icies,Snivy,Icies,1-1,1,1,0,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Super Shadow,Cell,Super Shadow,Cell,2-1,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Jigglypuff,Tails,Tails,Jigglypuff,1-2,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Ryu,Dr Mario,Dr Mario,Ryu,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Lucario,Snivy,Lucario,Snivy,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Captain Falcon,Knuckles,Knuckles,Captain Falcon,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Olimar,Brawler,Brawler,Olimar,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Pichu,Goomba,Pichu,Goomba,2-1,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Sonic,Aigis,Aigis,Sonic,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Blade,Link,Blade,Link,2-1,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Yukiko,Toad,Toad,Yukiko,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Shadow,Knuckles,Shadow,Knuckles,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Fox,Sephiroth,Fox,Sephiroth,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Yoshi,Brawler,Yoshi,Brawler,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Cloud,Pichu,Cloud,Pichu,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Thanos,Aigis,Thanos,Aigis,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Chrono,Ganon,Chrono,Ganon,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Ken,Blade,Blade,Ken,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,ROB,Toad,ROB,Toad,2-1,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Shadow,Fox,Shadow,Fox,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Yoshi,Cloud,Cloud,Yoshi,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Thanos,Chrono,Chrono,Thanos,1-2,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Blade,ROB,Blade,ROB,2-1,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Toad,Captain Falcon,Toad,Captain Falcon,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Ganon,Olimar,Ganon,Olimar,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Aigis,Goomba,Aigis,Goomba,2-1,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Pichu,Sonic,Pichu,Sonic,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Sephiroth,Link,Link,Sephiroth,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Knuckles,Yukiko,Knuckles,Yukiko,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Ken,Toad,Ken,Toad,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Ganon,Aigis,Ganon,Aigis,2-1,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Brawler,Pichu,Brawler,Pichu,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Link,Knuckles,Link,Knuckles,2-1,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Yoshi,Ken,Ken,Yoshi,1-2,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Fox,Ganon,Ganon,Fox,1-2,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,ROB,Brawler,ROB,Brawler,2-1,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Thanos,Link,Thanos,Link,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Terry,Goku Ui,Goku Ui,Terry,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Heracross,Goku,Heracross,Goku,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Little Mac,Mr. Game & Watch,Mr. Game & Watch,Little Mac,1-2,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Violet,Pikachu,Violet,Pikachu,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Bowser,Goku Ui,Bowser,Goku Ui,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Samus,Falco,Falco,Samus,1-2,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Donkey Kong,Heracross,Donkey Kong,Heracross,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,S Ryu,Iori,S Ryu,Iori,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Steve,Mr. Game & Watch,Steve,Mr. Game & Watch,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Snake,Wolf,Wolf,Snake,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Pac-Man,Violet,Pac-Man,Violet,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Mewtwo,Mario,Mewtwo,Mario,2-1,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Bowser,Falco,Bowser,Falco,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Donkey Kong,S Ryu,Donkey Kong,S Ryu,2-1,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Steve,Wolf,Steve,Wolf,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Pac-Man,Mewtwo,Mewtwo,Pac-Man,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Mario,Terry,Mario,Terry,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Snake,Goku,Snake,Goku,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Iori,Little Mac,Little Mac,Iori,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Samus,Pikachu,Samus,Pikachu,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Violet,Mario,Mario,Violet,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Mr. Game & Watch,Snake,Snake,Mr. Game & Watch,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Heracross,Little Mac,Heracross,Little Mac,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Goku Ui,Samus,Samus,Goku Ui,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,S Ryu,Mario,Mario,S Ryu,1-2,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Falco,Snake,Snake,Falco,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Pac-Man,Heracross,Pac-Man,Heracross,2-1,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Fase de Grupos,Pools,Wolf,Samus,Wolf,Samus,2-1,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Winners Round 1,Bracket,Escanor,Super Shadow,Escanor,Super Shadow,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Winners Round 1,Bracket,Cloud,Bowser,Bowser,Cloud,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Winners Round 1,Bracket,S Mario,Lucario,S Mario,Lucario,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Winners Round 1,Bracket,Blade,Mewtwo,Mewtwo,Blade,1-2,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Winners Round 1,Bracket,Yamcha,Dr Mario,Yamcha,Dr Mario,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Winners Round 1,Bracket,Chrono,Steve,Steve,Chrono,1-2,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Winners Round 1,Bracket,Marth,Tails,Marth,Tails,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Winners Round 1,Bracket,Shadow,Donkey Kong,Donkey Kong,Shadow,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Winners Round 2,Bracket,Escanor,Bowser,Escanor,Bowser,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Winners Round 2,Bracket,S Mario,Mewtwo,S Mario,Mewtwo,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Winners Round 2,Bracket,Yamcha,Steve,Steve,Yamcha,1-2,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Winners Round 2,Bracket,Marth,Donkey Kong,Donkey Kong,Marth,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Winners Round 3,Bracket,Escanor,S Mario,S Mario,Escanor,2-3,3,2,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Winners Round 3,Bracket,Steve,Donkey Kong,Steve,Donkey Kong,3-0,3,0,3,Victoria Contundente
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Winners Round 4,Bracket,S Mario,Steve,Steve,S Mario,1-3,3,1,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 1,Bracket,Shadow,Thanos,Thanos,Shadow,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 1,Bracket,Tails,Mario,Mario,Tails,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 1,Bracket,Chrono,ROB,ROB,Chrono,1-2,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 1,Bracket,Dr Mario,Wolf,Wolf,Dr Mario,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 1,Bracket,Blade,Ganon,Blade,Ganon,2-1,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 1,Bracket,Lucario,Snake,Lucario,Snake,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 1,Bracket,Cloud,Ken,Cloud,Ken,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 1,Bracket,Super Shadow,Pac-Man,Pac-Man,Super Shadow,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 2,Bracket,Thanos,Mario,Thanos,Mario,2-0,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 2,Bracket,ROB,Wolf,Wolf,ROB,1-2,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 2,Bracket,Blade,Lucario,Lucario,Blade,0-2,2,0,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 2,Bracket,Cloud,Pac-Man,Cloud,Pac-Man,2-1,2,1,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 3,Bracket,Mewtwo,Thanos,Thanos,Mewtwo,0-3,3,0,3,Victoria Contundente
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 3,Bracket,Bowser,Wolf,Bowser,Wolf,3-0,3,0,3,Victoria Contundente
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 3,Bracket,Marth,Lucario,Marth,Lucario,3-1,3,1,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 3,Bracket,Yamcha,Cloud,Yamcha,Cloud,3-0,3,0,3,Victoria Contundente
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 4,Bracket,Thanos,Bowser,Thanos,Bowser,3-2,3,2,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 4,Bracket,Marth,Yamcha,Yamcha,Marth,1-3,3,1,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 5,Bracket,Donkey Kong,Thanos,Thanos,Donkey Kong,2-3,3,2,1,Reñido
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 5,Bracket,Escanor,Yamcha,Escanor,Yamcha,3-0,3,0,3,Victoria Contundente
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 6,Bracket,Thanos,Escanor,Thanos,Escanor,3-0,3,0,3,Victoria Contundente
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Losers Round 7,Bracket,S Mario,Thanos,S Mario,Thanos,3-1,3,1,2,Victoria
+sim06.json,SSBC sim #6,2022-12-22T19:25:25.599-08:00,Winners Round 5,Bracket,Steve,S Mario,Steve,S Mario,3-0,3,0,3,Victoria Contundente
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Fase de Grupos,Pools,Escanor,Ken,Escanor,Ken,3-1,3,1,2,Victoria
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Fase de Grupos,Pools,Makoto,Steve,Makoto,Steve,3-0,3,0,3,Victoria Contundente
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Fase de Grupos,Pools,Steve,Escanor,Escanor,Steve,1-3,3,1,2,Victoria
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Fase de Grupos,Pools,Ken,Makoto,Makoto,Ken,0-3,3,0,3,Victoria Contundente
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Fase de Grupos,Pools,Makoto,Escanor,Makoto,Escanor,3-2,3,2,1,Reñido
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Fase de Grupos,Pools,Ken,Steve,Steve,Ken,1-3,3,1,2,Victoria
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Fase de Grupos,Pools,Thanos,Marth,Thanos,Marth,3-1,3,1,2,Victoria
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Fase de Grupos,Pools,Mewtwo,Bowser,Bowser,Mewtwo,0-3,3,0,3,Victoria Contundente
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Fase de Grupos,Pools,Bowser,Thanos,Thanos,Bowser,2-3,3,2,1,Reñido
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Fase de Grupos,Pools,Marth,Mewtwo,Marth,Mewtwo,3-0,3,0,3,Victoria Contundente
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Fase de Grupos,Pools,Mewtwo,Thanos,Thanos,Mewtwo,0-3,3,0,3,Victoria Contundente
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Fase de Grupos,Pools,Marth,Bowser,Bowser,Marth,2-3,3,2,1,Reñido
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Fase de Grupos,Pools,Yoshi,S Mario,S Mario,Yoshi,2-3,3,2,1,Reñido
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Fase de Grupos,Pools,Wolf,Mecha Sonic,Mecha Sonic,Wolf,1-3,3,1,2,Victoria
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Fase de Grupos,Pools,Mecha Sonic,Yoshi,Mecha Sonic,Yoshi,3-0,3,0,3,Victoria Contundente
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Fase de Grupos,Pools,S Mario,Wolf,S Mario,Wolf,3-0,3,0,3,Victoria Contundente
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Fase de Grupos,Pools,Wolf,Yoshi,Wolf,Yoshi,3-1,3,1,2,Victoria
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Fase de Grupos,Pools,S Mario,Mecha Sonic,S Mario,Mecha Sonic,3-1,3,1,2,Victoria
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Winners Round 1,Bracket,Marth,Wolf,Marth,Wolf,3-2,3,2,1,Reñido
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Winners Round 1,Bracket,Escanor,Mewtwo,Escanor,Mewtwo,3-1,3,1,2,Victoria
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Winners Round 1,Bracket,Steve,Ken,Steve,Ken,3-0,3,0,3,Victoria Contundente
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Winners Round 1,Bracket,Bowser,Yoshi,Bowser,Yoshi,3-2,3,2,1,Reñido
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Winners Round 2,Bracket,Makoto,Marth,Makoto,Marth,3-1,3,1,2,Victoria
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Winners Round 2,Bracket,Mecha Sonic,Escanor,Mecha Sonic,Escanor,3-2,3,2,1,Reñido
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Winners Round 2,Bracket,Thanos,Steve,Thanos,Steve,3-2,3,2,1,Reñido
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Winners Round 2,Bracket,S Mario,Bowser,S Mario,Bowser,3-2,3,2,1,Reñido
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Winners Round 3,Bracket,Makoto,Mecha Sonic,Mecha Sonic,Makoto,1-3,3,1,2,Victoria
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Winners Round 3,Bracket,Thanos,S Mario,Thanos,S Mario,3-1,3,1,2,Victoria
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Winners Round 4,Bracket,Mecha Sonic,Thanos,Mecha Sonic,Thanos,3-1,3,1,2,Victoria
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Losers Round 1,Bracket,Bowser,Wolf,Bowser,Wolf,3-1,3,1,2,Victoria
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Losers Round 1,Bracket,Steve,Mewtwo,Steve,Mewtwo,3-0,3,0,3,Victoria Contundente
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Losers Round 1,Bracket,Escanor,Ken,Escanor,Ken,3-2,3,2,1,Reñido
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Losers Round 1,Bracket,Marth,Yoshi,Marth,Yoshi,3-1,3,1,2,Victoria
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Losers Round 2,Bracket,Bowser,Steve,Steve,Bowser,1-3,3,1,2,Victoria
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Losers Round 2,Bracket,Escanor,Marth,Escanor,Marth,3-0,3,0,3,Victoria Contundente
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Losers Round 3,Bracket,Makoto,Steve,Makoto,Steve,3-2,3,2,1,Reñido
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Losers Round 3,Bracket,S Mario,Escanor,Escanor,S Mario,0-3,3,0,3,Victoria Contundente
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Losers Round 4,Bracket,Makoto,Escanor,Makoto,Escanor,3-1,3,1,2,Victoria
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Losers Round 5,Bracket,Thanos,Makoto,Makoto,Thanos,0-3,3,0,3,Victoria Contundente
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Winners Round 5,Bracket,Mecha Sonic,Makoto,Makoto,Mecha Sonic,2-3,3,2,1,Reñido
+sim07.json,SSBC sim #7,2023-04-02T14:33:42.359-07:00,Winners Round 5,Bracket,Makoto,Mecha Sonic,Mecha Sonic,Makoto,1-3,3,1,2,Victoria
+sim08.json,SSBC sim #8,2024-02-04T09:36:11.231-08:00,Winners Round 1,Bracket,Thanos,Sephiroth,Thanos,Sephiroth,2-0,2,0,2,Victoria
+sim08.json,SSBC sim #8,2024-02-04T09:36:11.231-08:00,Winners Round 1,Bracket,S. Luigi,Akko,Akko,S. Luigi,1-2,2,1,1,Reñido
+sim08.json,SSBC sim #8,2024-02-04T09:36:11.231-08:00,Winners Round 1,Bracket,Marth,Garchomp,Marth,Garchomp,2-1,2,1,1,Reñido
+sim08.json,SSBC sim #8,2024-02-04T09:36:11.231-08:00,Winners Round 1,Bracket,Steve,K. Sonic,K. Sonic,Steve,0-2,2,0,2,Victoria
+sim08.json,SSBC sim #8,2024-02-04T09:36:11.231-08:00,Winners Round 2,Bracket,Thanos,Akko,Akko,Thanos,1-2,2,1,1,Reñido
+sim08.json,SSBC sim #8,2024-02-04T09:36:11.231-08:00,Winners Round 2,Bracket,Marth,K. Sonic,Marth,K. Sonic,2-0,2,0,2,Victoria
+sim08.json,SSBC sim #8,2024-02-04T09:36:11.231-08:00,Winners Round 3,Bracket,Akko,Marth,Marth,Akko,0-2,2,0,2,Victoria
+sim08.json,SSBC sim #8,2024-02-04T09:36:11.231-08:00,Losers Round 1,Bracket,Sephiroth,S. Luigi,S. Luigi,Sephiroth,0-2,2,0,2,Victoria
+sim08.json,SSBC sim #8,2024-02-04T09:36:11.231-08:00,Losers Round 1,Bracket,Garchomp,Steve,Steve,Garchomp,0-2,2,0,2,Victoria
+sim08.json,SSBC sim #8,2024-02-04T09:36:11.231-08:00,Losers Round 2,Bracket,K. Sonic,S. Luigi,K. Sonic,S. Luigi,2-1,2,1,1,Reñido
+sim08.json,SSBC sim #8,2024-02-04T09:36:11.231-08:00,Losers Round 2,Bracket,Thanos,Steve,Thanos,Steve,2-0,2,0,2,Victoria
+sim08.json,SSBC sim #8,2024-02-04T09:36:11.231-08:00,Losers Round 3,Bracket,K. Sonic,Thanos,Thanos,K. Sonic,1-2,2,1,1,Reñido
+sim08.json,SSBC sim #8,2024-02-04T09:36:11.231-08:00,Losers Round 4,Bracket,Akko,Thanos,Thanos,Akko,1-2,2,1,1,Reñido
+sim08.json,SSBC sim #8,2024-02-04T09:36:11.231-08:00,Winners Round 4,Bracket,Marth,Thanos,Marth,Thanos,3-0,3,0,3,Victoria Contundente
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 1,Bracket,Falco,Samus,Falco,Samus,2-1,2,1,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 1,Bracket,Yoshi,Pikachu,Yoshi,Pikachu,2-0,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 1,Bracket,Ken,Wario,Ken,Wario,2-1,2,1,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 1,Bracket,Snake,Pichu,Snake,Pichu,2-1,2,1,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 1,Bracket,S. Luigi,Palutena,S. Luigi,Palutena,2-1,2,1,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 1,Bracket,Mario,Fox,Mario,Fox,2-1,2,1,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 1,Bracket,Lucario,Ganon,Lucario,Ganon,2-0,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 1,Bracket,Bowser,Shadow,Bowser,Shadow,2-0,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 1,Bracket,Donkey Kong,Luigi,Donkey Kong,Luigi,2-0,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 1,Bracket,Mewtwo,Mr. Game & Watch,Mr. Game & Watch,Mewtwo,1-2,2,1,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 1,Bracket,Steve,Sephiroth,Sephiroth,Steve,1-2,2,1,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 1,Bracket,Dr Mario,Ness,Dr Mario,Ness,2-1,2,1,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 2,Bracket,Marth,Falco,Marth,Falco,2-0,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 2,Bracket,Yoshi,Ken,Ken,Yoshi,1-2,2,1,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 2,Bracket,K. Sonic,Snake,Snake,K. Sonic,0-2,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 2,Bracket,S. Luigi,Mario,Mario,S. Luigi,1-2,2,1,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 2,Bracket,Thanos,Lucario,Thanos,Lucario,2-0,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 2,Bracket,Bowser,Donkey Kong,Bowser,Donkey Kong,2-0,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 2,Bracket,Akko,Mr. Game & Watch,Akko,Mr. Game & Watch,2-1,2,1,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 2,Bracket,Sephiroth,Dr Mario,Sephiroth,Dr Mario,2-1,2,1,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 3,Bracket,Marth,Ken,Marth,Ken,2-0,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 3,Bracket,Snake,Mario,Snake,Mario,2-1,2,1,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 3,Bracket,Thanos,Bowser,Thanos,Bowser,2-1,2,1,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 3,Bracket,Akko,Sephiroth,Akko,Sephiroth,2-0,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 4,Bracket,Marth,Snake,Marth,Snake,3-1,3,1,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 4,Bracket,Thanos,Akko,Akko,Thanos,0-3,3,0,3,Victoria Contundente
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 5,Bracket,Marth,Akko,Marth,Akko,3-0,3,0,3,Victoria Contundente
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 1,Bracket,Pikachu,Wario,Wario,Pikachu,0-2,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 1,Bracket,Palutena,Fox,Palutena,Fox,2-0,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 1,Bracket,Shadow,Luigi,Luigi,Shadow,0-2,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 1,Bracket,Steve,Ness,Ness,Steve,0-2,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 2,Bracket,Dr Mario,Samus,Samus,Dr Mario,1-2,2,1,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 2,Bracket,Mr. Game & Watch,Wario,Mr. Game & Watch,Wario,2-0,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 2,Bracket,Donkey Kong,Pichu,Donkey Kong,Pichu,2-0,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 2,Bracket,Lucario,Palutena,Palutena,Lucario,1-2,2,1,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 2,Bracket,S. Luigi,Ganon,S. Luigi,Ganon,2-0,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 2,Bracket,K. Sonic,Luigi,K. Sonic,Luigi,2-0,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 2,Bracket,Yoshi,Mewtwo,Mewtwo,Yoshi,1-2,2,1,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 2,Bracket,Falco,Ness,Ness,Falco,0-2,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 3,Bracket,Samus,Mr. Game & Watch,Mr. Game & Watch,Samus,1-2,2,1,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 3,Bracket,Donkey Kong,Palutena,Donkey Kong,Palutena,2-0,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 3,Bracket,S. Luigi,K. Sonic,S. Luigi,K. Sonic,2-0,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 3,Bracket,Mewtwo,Ness,Ness,Mewtwo,0-2,2,0,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 4,Bracket,Mario,Mr. Game & Watch,Mario,Mr. Game & Watch,3-1,3,1,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 4,Bracket,Ken,Donkey Kong,Donkey Kong,Ken,2-3,3,2,1,Reñido
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 4,Bracket,Sephiroth,S. Luigi,S. Luigi,Sephiroth,0-3,3,0,3,Victoria Contundente
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 4,Bracket,Bowser,Ness,Bowser,Ness,3-0,3,0,3,Victoria Contundente
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 5,Bracket,Mario,Donkey Kong,Donkey Kong,Mario,0-3,3,0,3,Victoria Contundente
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 5,Bracket,S. Luigi,Bowser,Bowser,S. Luigi,1-3,3,1,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 6,Bracket,Thanos,Donkey Kong,Thanos,Donkey Kong,3-1,3,1,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 6,Bracket,Snake,Bowser,Bowser,Snake,1-3,3,1,2,Victoria
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 7,Bracket,Thanos,Bowser,Bowser,Thanos,0-3,3,0,3,Victoria Contundente
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Losers Round 8,Bracket,Akko,Bowser,Bowser,Akko,0-3,3,0,3,Victoria Contundente
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 6,Bracket,Marth,Bowser,Bowser,Marth,0-3,3,0,3,Victoria Contundente
+sim09.json,SSBC sim #9,2024-06-14T10:53:59.810-07:00,Winners Round 6,Bracket,Bowser,Marth,Bowser,Marth,3-1,3,1,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Fase de Grupos,Pools,S Mario,Makoto,Makoto,S Mario,0-2,2,0,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Fase de Grupos,Pools,Link,Marth,Marth,Link,1-2,2,1,1,Reñido
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Fase de Grupos,Pools,Marth,S Mario,Marth,S Mario,2-0,2,0,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Fase de Grupos,Pools,Makoto,Link,Makoto,Link,2-0,2,0,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Fase de Grupos,Pools,Link,S Mario,S Mario,Link,0-2,2,0,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Fase de Grupos,Pools,Makoto,Marth,Marth,Makoto,1-2,2,1,1,Reñido
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Fase de Grupos,Pools,Escanor,Cloud,Escanor,Cloud,2-0,2,0,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Fase de Grupos,Pools,Lucario,Steve,Lucario,Steve,2-0,2,0,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Fase de Grupos,Pools,Steve,Escanor,Escanor,Steve,0-2,2,0,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Fase de Grupos,Pools,Cloud,Lucario,Lucario,Cloud,1-2,2,1,1,Reñido
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Fase de Grupos,Pools,Lucario,Escanor,Escanor,Lucario,0-2,2,0,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Fase de Grupos,Pools,Cloud,Steve,Cloud,Steve,2-0,2,0,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Fase de Grupos,Pools,Bowser,Donkey Kong,Bowser,Donkey Kong,2-1,2,1,1,Reñido
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Fase de Grupos,Pools,Wolf,Thanos,Thanos,Wolf,1-2,2,1,1,Reñido
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Fase de Grupos,Pools,Thanos,Bowser,Bowser,Thanos,1-2,2,1,1,Reñido
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Fase de Grupos,Pools,Donkey Kong,Wolf,Donkey Kong,Wolf,2-0,2,0,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Fase de Grupos,Pools,Wolf,Bowser,Bowser,Wolf,1-2,2,1,1,Reñido
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Fase de Grupos,Pools,Donkey Kong,Thanos,Donkey Kong,Thanos,2-0,2,0,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Winners Round 1,Bracket,Marth,Cloud,Marth,Cloud,3-2,3,2,1,Reñido
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Winners Round 1,Bracket,Donkey Kong,Makoto,Makoto,Donkey Kong,1-3,3,1,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Winners Round 1,Bracket,Escanor,S Mario,S Mario,Escanor,0-3,3,0,3,Victoria Contundente
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Winners Round 1,Bracket,Bowser,Lucario,Bowser,Lucario,3-1,3,1,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Winners Round 2,Bracket,Marth,Makoto,Makoto,Marth,0-3,3,0,3,Victoria Contundente
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Winners Round 2,Bracket,S Mario,Bowser,S Mario,Bowser,3-1,3,1,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Winners Round 3,Bracket,Makoto,S Mario,Makoto,S Mario,3-0,3,0,3,Victoria Contundente
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Losers Round 1,Bracket,Lucario,Thanos,Lucario,Thanos,2-0,2,0,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Losers Round 1,Bracket,Escanor,Steve,Escanor,Steve,2-0,2,0,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Losers Round 1,Bracket,Donkey Kong,Link,Donkey Kong,Link,2-0,2,0,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Losers Round 1,Bracket,Cloud,Wolf,Wolf,Cloud,0-2,2,0,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Losers Round 2,Bracket,Lucario,Escanor,Escanor,Lucario,0-3,3,0,3,Victoria Contundente
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Losers Round 2,Bracket,Donkey Kong,Wolf,Donkey Kong,Wolf,3-2,3,2,1,Reñido
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Losers Round 3,Bracket,Marth,Escanor,Escanor,Marth,1-3,3,1,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Losers Round 3,Bracket,Bowser,Donkey Kong,Bowser,Donkey Kong,3-2,3,2,1,Reñido
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Losers Round 4,Bracket,Escanor,Bowser,Escanor,Bowser,3-1,3,1,2,Victoria
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Losers Round 5,Bracket,S Mario,Escanor,S Mario,Escanor,3-0,3,0,3,Victoria Contundente
+sim10.json,SSBC sim #10,2024-09-29T09:31:54.064-07:00,Winners Round 4,Bracket,Makoto,S Mario,Makoto,S Mario,3-0,3,0,3,Victoria Contundente
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Fase de Grupos,Pools,Bowser,Steve,Bowser,Steve,2-0,2,0,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Fase de Grupos,Pools,Ken,Makoto,Makoto,Ken,0-2,2,0,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Fase de Grupos,Pools,Makoto,Bowser,Bowser,Makoto,0-2,2,0,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Fase de Grupos,Pools,Steve,Ken,Steve,Ken,2-0,2,0,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Fase de Grupos,Pools,Ken,Bowser,Ken,Bowser,2-1,2,1,1,Reñido
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Fase de Grupos,Pools,Steve,Makoto,Makoto,Steve,0-2,2,0,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Fase de Grupos,Pools,Marth,Donkey Kong,Marth,Donkey Kong,2-0,2,0,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Fase de Grupos,Pools,Cloud,S Mario,S Mario,Cloud,0-2,2,0,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Fase de Grupos,Pools,S Mario,Marth,S Mario,Marth,2-0,2,0,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Fase de Grupos,Pools,Donkey Kong,Cloud,Cloud,Donkey Kong,0-2,2,0,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Fase de Grupos,Pools,Cloud,Marth,Marth,Cloud,1-2,2,1,1,Reñido
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Fase de Grupos,Pools,Donkey Kong,S Mario,Donkey Kong,S Mario,2-1,2,1,1,Reñido
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Fase de Grupos,Pools,Thanos,Wolf,Wolf,Thanos,1-2,2,1,1,Reñido
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Fase de Grupos,Pools,Lucario,Escanor,Escanor,Lucario,0-2,2,0,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Fase de Grupos,Pools,Escanor,Thanos,Escanor,Thanos,2-0,2,0,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Fase de Grupos,Pools,Wolf,Lucario,Wolf,Lucario,2-1,2,1,1,Reñido
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Fase de Grupos,Pools,Lucario,Thanos,Thanos,Lucario,1-2,2,1,1,Reñido
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Fase de Grupos,Pools,Wolf,Escanor,Escanor,Wolf,0-2,2,0,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Winners Round 1,Bracket,Bowser,Cloud,Cloud,Bowser,2-3,3,2,1,Reñido
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Winners Round 1,Bracket,Wolf,Makoto,Makoto,Wolf,1-3,3,1,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Winners Round 1,Bracket,S Mario,Steve,S Mario,Steve,3-2,3,2,1,Reñido
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Winners Round 1,Bracket,Escanor,Marth,Escanor,Marth,3-1,3,1,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Winners Round 2,Bracket,Cloud,Makoto,Makoto,Cloud,1-3,3,1,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Winners Round 2,Bracket,S Mario,Escanor,S Mario,Escanor,3-0,3,0,3,Victoria Contundente
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Winners Round 3,Bracket,Makoto,S Mario,Makoto,S Mario,3-1,3,1,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Losers Round 1,Bracket,Marth,Thanos,Marth,Thanos,2-0,2,0,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Losers Round 1,Bracket,Steve,Donkey Kong,Donkey Kong,Steve,0-2,2,0,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Losers Round 1,Bracket,Wolf,Ken,Wolf,Ken,2-1,2,1,1,Reñido
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Losers Round 1,Bracket,Bowser,Lucario,Bowser,Lucario,2-1,2,1,1,Reñido
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Losers Round 2,Bracket,Marth,Donkey Kong,Marth,Donkey Kong,3-2,3,2,1,Reñido
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Losers Round 2,Bracket,Wolf,Bowser,Bowser,Wolf,1-3,3,1,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Losers Round 3,Bracket,Cloud,Marth,Cloud,Marth,3-2,3,2,1,Reñido
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Losers Round 3,Bracket,Escanor,Bowser,Escanor,Bowser,3-2,3,2,1,Reñido
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Losers Round 4,Bracket,Cloud,Escanor,Cloud,Escanor,3-1,3,1,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Losers Round 5,Bracket,S Mario,Cloud,S Mario,Cloud,3-1,3,1,2,Victoria
+sim11.json,SSBCsim11,2024-10-04T16:26:06.180-07:00,Winners Round 4,Bracket,Makoto,S Mario,Makoto,S Mario,3-0,3,0,3,Victoria Contundente
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Roy,Snake,Roy,Snake,2-0,2,0,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Hero,Lucario,Lucario,Hero,0-2,2,0,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Wolf,Fox,Wolf,Fox,2-0,2,0,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Mordecai,Marth,Marth,Mordecai,0-2,2,0,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Roy,Lucario,Roy,Lucario,2-1,2,1,1,Reñido
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Wolf,Marth,Marth,Wolf,1-2,2,1,1,Reñido
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Snake,Hero,Snake,Hero,2-0,2,0,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Fox,Mordecai,Fox,Mordecai,2-0,2,0,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Wolf,Snake,Wolf,Snake,2-0,2,0,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Lucario,Fox,Lucario,Fox,2-0,2,0,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Thanos,Knuckles,Thanos,Knuckles,2-0,2,0,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Donkey Kong,Black Mage,Donkey Kong,Black Mage,2-1,2,1,1,Reñido
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Cloud,Dr Mario,Cloud,Dr Mario,2-0,2,0,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Captain Falcon,Shadow,Captain Falcon,Shadow,2-1,2,1,1,Reñido
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Thanos,Donkey Kong,Donkey Kong,Thanos,0-2,2,0,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Cloud,Captain Falcon,Cloud,Captain Falcon,2-0,2,0,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Knuckles,Black Mage,Knuckles,Black Mage,2-0,2,0,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Dr Mario,Shadow,Dr Mario,Shadow,2-0,2,0,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Captain Falcon,Knuckles,Knuckles,Captain Falcon,1-2,2,1,1,Reñido
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Fase de Grupos,Pools,Thanos,Dr Mario,Dr Mario,Thanos,0-2,2,0,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Winners Round 1,Bracket,Roy,Cloud,Cloud,Roy,1-3,3,1,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Winners Round 1,Bracket,Marth,Donkey Kong,Marth,Donkey Kong,3-2,3,2,1,Reñido
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Winners Round 2,Bracket,Cloud,Marth,Cloud,Marth,3-1,3,1,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Losers Round 1,Bracket,Dr Mario,Wolf,Wolf,Dr Mario,2-3,3,2,1,Reñido
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Losers Round 1,Bracket,Knuckles,Lucario,Lucario,Knuckles,0-3,3,0,3,Victoria Contundente
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Losers Round 2,Bracket,Donkey Kong,Wolf,Wolf,Donkey Kong,1-3,3,1,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Losers Round 2,Bracket,Roy,Lucario,Roy,Lucario,3-1,3,1,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Losers Round 3,Bracket,Wolf,Roy,Roy,Wolf,0-3,3,0,3,Victoria Contundente
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Losers Round 4,Bracket,Marth,Roy,Marth,Roy,3-1,3,1,2,Victoria
+sim12.json,SSBCsim12,2025-04-30T14:09:55.261-07:00,Winners Round 3,Bracket,Cloud,Marth,Cloud,Marth,3-2,3,2,1,Reñido
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Cloud,Snake,Cloud,Snake,2-0,2,0,2,Victoria
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Dr Mario,Knuckles,Dr Mario,Knuckles,2-0,2,0,2,Victoria
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Thanos,Mario,Thanos,Mario,2-0,2,0,2,Victoria
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Lucario,Lucas,Lucario,Lucas,2-0,2,0,2,Victoria
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Cloud,Dr Mario,Cloud,Dr Mario,2-1,2,1,1,Reñido
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Thanos,Lucario,Thanos,Lucario,2-1,2,1,1,Reñido
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Snake,Knuckles,Snake,Knuckles,2-1,2,1,1,Reñido
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Mario,Lucas,Lucas,Mario,0-2,2,0,2,Victoria
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Lucario,Snake,Lucario,Snake,2-1,2,1,1,Reñido
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Dr Mario,Lucas,Dr Mario,Lucas,2-0,2,0,2,Victoria
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Marth,Link,Marth,Link,2-1,2,1,1,Reñido
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Donkey Kong,Pac-Man,Pac-Man,Donkey Kong,1-2,2,1,1,Reñido
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Roy,Ridley,Roy,Ridley,2-1,2,1,1,Reñido
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Wolf,Falco,Wolf,Falco,2-0,2,0,2,Victoria
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Marth,Pac-Man,Marth,Pac-Man,2-1,2,1,1,Reñido
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Roy,Wolf,Wolf,Roy,0-2,2,0,2,Victoria
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Link,Donkey Kong,Donkey Kong,Link,0-2,2,0,2,Victoria
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Ridley,Falco,Falco,Ridley,0-2,2,0,2,Victoria
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Roy,Donkey Kong,Donkey Kong,Roy,1-2,2,1,1,Reñido
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Fase de Grupos,Pools,Pac-Man,Falco,Pac-Man,Falco,2-1,2,1,1,Reñido
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Winners Round 1,Bracket,Thanos,Marth,Marth,Thanos,0-3,3,0,3,Victoria Contundente
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Winners Round 1,Bracket,Cloud,Wolf,Cloud,Wolf,3-0,3,0,3,Victoria Contundente
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Winners Round 2,Bracket,Marth,Cloud,Cloud,Marth,1-3,3,1,2,Victoria
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Losers Round 1,Bracket,Pac-Man,Lucario,Lucario,Pac-Man,2-3,3,2,1,Reñido
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Losers Round 1,Bracket,Donkey Kong,Dr Mario,Donkey Kong,Dr Mario,3-2,3,2,1,Reñido
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Losers Round 2,Bracket,Wolf,Lucario,Wolf,Lucario,3-2,3,2,1,Reñido
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Losers Round 2,Bracket,Thanos,Donkey Kong,Donkey Kong,Thanos,1-3,3,1,2,Victoria
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Losers Round 3,Bracket,Wolf,Donkey Kong,Wolf,Donkey Kong,3-1,3,1,2,Victoria
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Losers Round 4,Bracket,Marth,Wolf,Wolf,Marth,1-3,3,1,2,Victoria
+sim13.json,SSBCsim13,2025-07-14T19:28:24.391-07:00,Winners Round 3,Bracket,Cloud,Wolf,Cloud,Wolf,3-2,3,2,1,Reñido
