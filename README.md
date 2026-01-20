@@ -23,6 +23,10 @@ Pipeline
 ### Key Findings:
 * **Tournament King:** Marth has the highest Win Rate (X%).   
 * **Rivalry:** The heatmap shows that Escanor loses 80% of the time against Bowser.  
+<img width="1832" height="1055" alt="pag1" src="https://github.com/user-attachments/assets/6ca60910-8839-4e04-9eba-49ad68679194" />
+<img width="1832" height="1046" alt="pag2" src="https://github.com/user-attachments/assets/1c0782b9-fbaa-411a-9f17-52874ad6f4a4" />
+<img width="1818" height="1041" alt="pag3" src="https://github.com/user-attachments/assets/69c3c98d-86c9-428c-885d-964b2b8e1c55" />
+
 
 ## Project Structure
 * `/Scripts`: Python code to reproduce the cleaning process.  
