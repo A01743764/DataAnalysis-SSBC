@@ -1,34 +1,37 @@
-# Data Analysis Project - Player Perfomances in E-Sports (SSBC) 
+# Proyecto de Análisis de Datos - Rendimiento de Jugadores en E-Sports (SSBC)
 
-## Description
-This project analyzes the performance of 13 brackets simulated for the game Super Smash Bros Crusade, processing raw data from Challonge to uncover victory patterns, rivalries, and performance metrics.
-**Objective:** Transform unstructured JSONs into an interactive Dashboard for decision-making.
+## Descripción
+Este proyecto analiza el rendimiento de 13 brackets simulados del videojuego **Super Smash Bros. Crusade**, procesando datos en bruto extraídos de **Challonge** para identificar patrones de victoria, rivalidades y métricas de desempeño.
 
-## Technologies Used
-* **Python (Pandas):** Data extraction, cleaning, and transformation (ETL).
-* **SQL Server:** Analytical queries and business logic validation.
-* **Power BI:** Data visualization and storytelling.
+**Objetivo:** Transformar archivos JSON no estructurados en un dashboard interactivo que facilite la toma de decisiones.
 
-Pipeline  
-1. **Ingestion:** Reading multiple tournament JSON files.  
-2. **Cleaning:**  
-   * Name normalization (e.g., "Dr Mario" vs "Dr. Mario").  
-   * Score parsing (e.g., "2-1" → Winner: 2, Loser: 1).  
-   * Creation of calculated metrics (Game Difference).  
-3. **Analysis:** Classification of victories into "Sweep" (3-0), "Solid," and "Close."  
-4. **Visualization:** Interactive dashboard.  
+## Tecnologías Utilizadas
+* **Python (Pandas):** Extracción, limpieza y transformación de datos (ETL).
+* **SQL Server:** Consultas analíticas y validación de la lógica de negocio.
+* **Power BI:** Visualización de datos.
 
-## Results and Insights
+### Flujo del Proyecto (Pipeline)
+1. **Ingesta:** Lectura de múltiples archivos JSON de torneos.
+2. **Limpieza:**
+   * Normalización de nombres (por ejemplo, "Dr Mario" vs. "Dr. Mario").
+   * Procesamiento de puntuaciones (por ejemplo, "2-1" → Ganador: 2, Perdedor: 1).
+   * Creación de métricas calculadas (Diferencia de Juegos).
+3. **Análisis:** Clasificación de las victorias en categorías como **"Sweep" (3-0)**, **"Sólida"** y **"Ajustada"**.
+4. **Visualización:** Construcción de un dashboard interactivo.
 
-### Key Findings:
-* **Tournament King:** "Marth" has the highest Win Rate.   
-* **Rivalry:** The heatmap shows that "Escanor" loses 80% of the time against "Bowser".  
+## Resultados e Insights
+
+### Hallazgos Clave
+* **Rey del Torneo:** *Marth* posee la tasa de victorias más alta.
+* **Rivalidad Destacada:** El mapa de calor muestra que *Escanor* pierde el 80% de las veces frente a *Bowser*.
+
 <img width="1832" height="1055" alt="pag1" src="https://github.com/user-attachments/assets/6ca60910-8839-4e04-9eba-49ad68679194" />
+
 <img width="1832" height="1046" alt="pag2" src="https://github.com/user-attachments/assets/1c0782b9-fbaa-411a-9f17-52874ad6f4a4" />
+
 <img width="1818" height="1041" alt="pag3" src="https://github.com/user-attachments/assets/69c3c98d-86c9-428c-885d-964b2b8e1c55" />
 
-
-## Project Structure
-* `/Scripts`: Python code to reproduce the cleaning process.  
-* `/Dashboard`: .pbix file and PDF of the final report.  
-* `/Data`: Processed data ready for analysis.  
+## Estructura del Proyecto
+* `/Scripts`: Código en Python para reproducir el proceso de limpieza y transformación de datos.
+* `/Dashboard`: Archivo `.pbix` y versión PDF del informe final.
+* `/Data`: Datos procesados y listos para su análisis.
